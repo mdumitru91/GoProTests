@@ -11,4 +11,4 @@ _Maven command_:
 mvn clean verify 
 
 # Selenium drivers
-Depending on the version of browser which is locally installed, one might need to upgrade/downgrade the driver executables from _src/main/resources/drivers_ 
+Depending on the version of browser which is locally installed, one might need to upgrade/downgrade the driver executables from _target root folder (chromedriver.exe)._
